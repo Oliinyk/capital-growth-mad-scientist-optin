@@ -27,8 +27,6 @@ img {
 .padding-list-30 {
     padding-top: 30px;
 }
-
-
 .btn.primary-btn {
     font-family: Open Sans;
     font-size: 20px;
@@ -56,11 +54,13 @@ img {
 }
 .header .logo {
     display: flex;
+    width: 100%;
 }
 .header .logo img {
     width: 100%;
     max-width: 88px;
     margin: 0 auto;
+    display: flex;
 }
 /* hero */
 .hero {
